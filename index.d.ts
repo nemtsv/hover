@@ -1,0 +1,1 @@
+export default function useHover(ref: React.Ref): boolean;
